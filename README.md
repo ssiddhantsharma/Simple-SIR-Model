@@ -1,5 +1,5 @@
-# BasicSIRModel
-This project contains a basic SIR model, with build in plotting. A companion blog post for this project can be found <a href="https://mattravenhall.github.io/2018/01/02/SIR-Model.html">here</a>.
+# Simple-SIR-Model
+This project contains a basic SIR model, with build in plotting. 
 
 ## Running the model
 ```python
